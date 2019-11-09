@@ -11,7 +11,7 @@ namespace MRHLibraryManagement
 {
 
 
-    public partial class MalavForm
+    public partial class MasterFrom
     {
 
         /// <summary>

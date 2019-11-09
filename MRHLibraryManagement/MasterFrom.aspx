@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="MalavForm.aspx.cs" Inherits="MRHLibraryManagement.MalavForm" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="MasterFrom.aspx.cs" Inherits="MRHLibraryManagement.MasterFrom" %>
 
 <!DOCTYPE html>
 
@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            Hi I am Malav</div>
+        </div>
     </form>
 </body>
 </html>

@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace MRHLibraryManagement
 {
-    public partial class MalavForm : System.Web.UI.Page
+    public partial class MasterFrom : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {

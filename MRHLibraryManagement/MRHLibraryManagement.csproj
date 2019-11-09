@@ -67,16 +67,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="MalavForm.aspx" />
+    <Content Include="MasterFrom.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MalavForm.aspx.cs">
-      <DependentUpon>MalavForm.aspx</DependentUpon>
+    <Compile Include="MasterFrom.aspx.cs">
+      <DependentUpon>MasterFrom.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="MalavForm.aspx.designer.cs">
-      <DependentUpon>MalavForm.aspx</DependentUpon>
+    <Compile Include="MasterFrom.aspx.designer.cs">
+      <DependentUpon>MasterFrom.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
