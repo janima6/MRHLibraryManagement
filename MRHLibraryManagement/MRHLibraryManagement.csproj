@@ -67,10 +67,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="HarshForm.aspx" />
     <Content Include="MasterFrom.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="HarshForm.aspx.cs">
+      <DependentUpon>HarshForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HarshForm.aspx.designer.cs">
+      <DependentUpon>HarshForm.aspx</DependentUpon>
+    </Compile>
     <Compile Include="MasterFrom.aspx.cs">
       <DependentUpon>MasterFrom.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
